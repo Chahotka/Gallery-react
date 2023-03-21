@@ -1,0 +1,23 @@
+.greeting {
+
+  &__container {
+  }
+
+  &__body {
+    margin: 20px 0 20px 0;
+    text-align: center;
+  }
+
+  &__title {
+    font-size: 25px;
+    letter-spacing: 1.5px;
+    margin: 0 0 10px 0;
+  }
+
+  &__text {
+    font-size: 20px;
+    color: #999;
+  }
+}
+.container {
+}

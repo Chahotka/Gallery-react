@@ -1,0 +1,23 @@
+.header {
+  flex: 0 0 auto;
+  margin: 15px 0 15px 0;
+  
+  &__container {
+  }
+
+  &__body {
+  }
+
+  &__nav {
+  }
+
+  &__title {
+    font-size: 40px;
+    font-weight: 700;
+  }
+}
+.container {
+  width: 90%;
+  max-width: 1300px;
+  margin: 0 auto;
+}
